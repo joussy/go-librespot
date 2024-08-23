@@ -39,7 +39,7 @@ server:
   enabled: true
   port: 3678
 ```
-
+ 
 For API documentation see [here](API.md).
 
 ## Building
